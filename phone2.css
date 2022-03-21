@@ -1,0 +1,21 @@
+.container{
+    height: 600px;
+    width: 470px;
+}
+.navbar{
+    height: 200px;
+    width: 470px;
+}
+.navbar nav ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.tableins{
+    top: 10px;
+}
+.tableins h1{
+    font-size: 40px;
+}
+.sponsors{
+    width: 470px;
+}
